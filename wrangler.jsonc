@@ -13,5 +13,8 @@
       "binding": "DEALKART_KV",
       "id": "PASTE_YOUR_KV_NAMESPACE_ID_HERE"
     }
-  ]
+  ],
+  "secrets": {
+    "required": ["ADMIN_PASSWORD"]
+  }
 }
